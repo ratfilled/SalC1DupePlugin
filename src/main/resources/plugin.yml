@@ -1,0 +1,8 @@
+main: org.null3054.salc1dupe.SalC1Dupe
+name: SalC1Dupe
+version: '0.1'
+description: SalC1Dupe plugin by Null3054
+commands:
+  dupereload:
+    description: Reload
+    usage: /<command> <text>
