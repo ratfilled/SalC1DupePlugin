@@ -1,2 +1,2 @@
 # SalC1DupePlugin
-This dupe duplicates objects with incredible speed, I have to thank SalC1 who founded this exploit
+https://www.youtube.com/watch?v=7Qi28GEBELI
